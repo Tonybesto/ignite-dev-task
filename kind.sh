@@ -1,6 +1,4 @@
 #!/bin/bash
-
-
 git clone https://github.com/initcron/k8s-code.git
 
 cd k8s-code/helper/kind/
